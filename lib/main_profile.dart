@@ -12,7 +12,7 @@ class MainProfile extends StatelessWidget {
         ),
         SizedBox(height: 10),
         Text(
-          'Satriyo Wicaksono 11122321 | 230103118',
+          'Satriyo Wicaksono | 230103118',
           style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
         ),
         SizedBox(height: 5),
